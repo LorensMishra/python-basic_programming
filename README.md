@@ -13,18 +13,22 @@ Structure:
 ## Easy (Must Do)
 ##      1. Check even or odd
 ##      2. Swap two numbers
-         ![WhatsApp Image 2025-12-29 at 23 30 29](https://github.com/user-attachments/assets/b54c8dec-0487-4b39-9f91-e62a508467f9)
+![WhatsApp Image 2025-12-29 at 23 30 29](https://github.com/user-attachments/assets/b54c8dec-0487-4b39-9f91-e62a508467f9)
+         
 ##      3. Find factorial of a number
-         ![WhatsApp Image 2025-12-29 at 23 30 29 (1)](https://github.com/user-attachments/assets/3bb07e7d-754c-48d0-995f-91430addfbc4)
+![WhatsApp Image 2025-12-29 at 23 30 29 (1)](https://github.com/user-attachments/assets/3bb07e7d-754c-48d0-995f-91430addfbc4)
+
 ##      4. Fibonacci series
-         ![WhatsApp Image 2025-12-29 at 23 30 30](https://github.com/user-attachments/assets/616e4a95-8c53-48e8-b550-3c4a489fa7c7)
+![WhatsApp Image 2025-12-29 at 23 30 30](https://github.com/user-attachments/assets/616e4a95-8c53-48e8-b550-3c4a489fa7c7)
+
  ##     5. Reverse a number
  ##     6. Sum of digits
-         ![WhatsApp Image 2025-12-29 at 23 30 30 (1)](https://github.com/user-attachments/assets/951b5230-c091-4b81-b47e-9b911a21de60)
+![WhatsApp Image 2025-12-29 at 23 30 30 (1)](https://github.com/user-attachments/assets/951b5230-c091-4b81-b47e-9b911a21de60)
+
  ##     7. Check prime number
  ##     8. Count digits in a number
  ##     9. Product of digit
-         ![WhatsApp Image 2025-12-29 at 23 30 30 (2)](https://github.com/user-attachments/assets/bfcd2100-deea-418c-b3bb-ada295a242e8)
+![WhatsApp Image 2025-12-29 at 23 30 30 (2)](https://github.com/user-attachments/assets/bfcd2100-deea-418c-b3bb-ada295a242e8)
       
       ---
 

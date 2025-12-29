@@ -10,7 +10,7 @@ Structure:
 
 ## 0. BASIC PROGRAMMING 
 
-### Easy (Must Do)
+## Easy (Must Do)
 ##      1. Check even or odd
 ##      2. Swap two numbers
          ![WhatsApp Image 2025-12-29 at 23 30 29](https://github.com/user-attachments/assets/b54c8dec-0487-4b39-9f91-e62a508467f9)
